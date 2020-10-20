@@ -4,6 +4,7 @@
 
 ## This is a leech to FILE repo! Leech to STREAM(video) availabe here > [LEECH TO STREAM](https://github.com/prgofficial/LeechToStream)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
 ### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
